@@ -1,0 +1,2 @@
+add_lunch_combo clustyrom_mako-userdebug
+add_lunch_combo clustyrom_mako-user
